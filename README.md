@@ -12,7 +12,7 @@ public class Bio {
         return Arrays.asList(
                 "Hi! I'm Michał Błoch, also known as Lotnest.",
                 "I love coding in Java, however I want to continue learning other languages too.",
-                "Check out the section below if you want to get in contact with me."
+                "Check out the section below if you want to get in touch with me."
         );
     }
 }
