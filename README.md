@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my GitHub! 👋</h1>
-<h2 align="center"><img src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" alt="Animation" height="510" width="570"></h2>
+<h2 align="center"><img src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" alt="Animation" height="510" width="870"></h2>
 
 ```java
 public class Bio {
