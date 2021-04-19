@@ -1,16 +1,48 @@
-### Hi there 👋
+<h1 align="center">Welcome to my GitHub! 👋</h1>
+<h2 align="center"><img src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp" alt="GitHub logo animated" height="200" width="200"></h2>
 
-<!--
-**Lotnest/Lotnest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```java
+public class Bio {
 
-Here are some ideas to get you started:
+    public static void main(String[] args) {
+        getBio().forEach(System.out::println);
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    public static List<String> getBio() {
+        return Arrays.asList(
+                "Hi! I'm Michał Błoch, also known as Lotnest.",
+                "I love coding in Java, however I want to continue learning other ones too.",
+                "Check out the section below if you want to get in contact with me."
+        );
+    }
+}
+```
+
+<h2 align="center"><hr/><br/>Where to find me</h3>
+<h3 align="center">
+    <a href="https://linkedin.com/in/michal-bloch-warsaw/">
+        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="My LinkedIn profile" height="40" width="40">
+    </a>
+    <a href="https://stackshare.io/lotnest/my-stack">
+        <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="My StackShare profile" height="40" width="40">
+    </a>
+    <a href="https://hackerrank.com/Lotnest">
+        <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="My HackerRank profile" height="40" width="50">
+    </a>
+    <a href="https://stackoverflow.com/users/13128503/lotnest">
+        <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="My StackOverflow profile" height="40" width="35">
+    </a>
+</h3>
+
+<h2 align="center"><hr/><br/>Statistics</h3>
+
+<h3 align="center">Profile views</h3>
+<h4 align="center">
+    <img src="https://profile-counter.glitch.me/{Lotnest}/count.svg" alt="My GitHub views counter" />
+</h4>
+
+<h3 align="center">Other</h3>
+<h4 align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Lotnest&show_icons=true&theme=tokyonight" alt="My stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lotnest&langs_count=10&theme=tokyonight&layout=compact" alt="My top languages">
+</h4>
