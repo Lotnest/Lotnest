@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my GitHub! 👋</h1>
-<h2 align="center"><img src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp" alt="GitHub logo animated" height="230" width="300"></h2>
+<h2 align="center"><img src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp" alt="GitHub logo animated" height="220" width="280"></h2>
 
 ```java
 public class Bio {
