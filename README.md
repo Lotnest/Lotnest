@@ -18,7 +18,7 @@ public class Bio {
 }
 ```
 
-<h2 align="center"><hr/><br/>Where to find me</h3>
+<h2 align="center"><br/>Where to find me</h3>
 <h3 align="center">
     <a href="https://linkedin.com/in/michal-bloch-warsaw/">
         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="My LinkedIn profile" height="40" width="40">
@@ -34,7 +34,7 @@ public class Bio {
     </a>
 </h3>
 
-<h2 align="center"><hr/><br/>Statistics</h3>
+<h2 align="center"><br/>Statistics</h3>
 
 <h3 align="center">Profile views</h3>
 <h4 align="center">
