@@ -41,7 +41,7 @@ public class Bio {
 <img src="https://profile-counter.glitch.me/{Lotnest}/count.svg" alt="My GitHub views counter" />
 </h4>
 
-<h3 align="center">Other</h3>
+<h3 align="center">Code</h3>
 <h4 align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Lotnest&show_icons=true&theme=tokyonight" alt="My stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lotnest&langs_count=10&theme=tokyonight&layout=compact" alt="My top languages">
