@@ -10,8 +10,7 @@ public class Bio {
 
     public static List<String> getBio() {
         return Arrays.asList(
-                "Hi! I'm Michał Błoch, also known as Lotnest.",
-                "I love coding in Java, however I want to continue learning other languages too.",
+                "Hi! I'm Michał Błoch, also known as Lotnest, and I'm a Junior Java Developer.",
                 "Check out the section below if you want to get in touch with me."
         );
     }
