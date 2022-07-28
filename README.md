@@ -25,7 +25,7 @@
 </h4>
 
 <h3 align="center">Code</h3>
-<h4 align="left">
+<h4 align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Lotnest&show_icons=true&theme=tokyonight" alt="My stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lotnest&langs_count=10&theme=tokyonight&layout=compact" alt="My top languages">
 </h4>
