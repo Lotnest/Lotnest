@@ -1,22 +1,6 @@
 <h1 align="center">Welcome to my GitHub! 👋</h1>
 <h2 align="center"><img src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" alt="Animation" height="380" width="670"></h2>
 
-```java
-public class Bio {
-
-    public static void main(String[] args) {
-        getBio().forEach(System.out::println);
-    }
-
-    public static List<String> getBio() {
-        return Arrays.asList(
-                "Hi! I'm Michał Błoch, also known as Lotnest, and I'm a Junior Java Developer.",
-                "Check out the section below if you want to get in touch with me."
-        );
-    }
-}
-```
-
 <h2 align="center"><br/>Where to find me</h3>
 <h3 align="center">
 <a href="https://linkedin.com/in/michal-bloch-warsaw/">
